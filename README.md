@@ -2,6 +2,9 @@
 Convert Standard M2 format to parallel sentences.
 For M2 format and its usage details, please see https://github.com/chrisjbryant/errant for more information.
 
+## Prerequisites
+Python >= 3.0
+
 ## Usage
 python conv_m2.py -f <m2_file> -p <output_prefix>
 
